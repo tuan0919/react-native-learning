@@ -9,3 +9,5 @@ Tuy repository này là dành cho quá trình học React Native, nhưng về b�
 **[👉 Khái niệm đúng về Components, Instance và Elements](./components-instances-and-elements/)**
 
 **[👉 Sơ lược về cách mà 'Render' hoạt động trong React](./how-render-works-overview/)**
+
+**[👉 Render Phase trong React](./how-render-phase-works/)**
